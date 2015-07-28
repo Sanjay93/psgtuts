@@ -1,0 +1,370 @@
+﻿body {
+    
+}
+.divfortext {
+    position: absolute;
+    z-index: inherit;
+    top: 964px;
+    left: -93px;
+    width: 1090px;
+    height: 55px;
+    right: 6px;
+    margin-bottom: 14px;
+    
+}
+.divfortoolbar {
+    position: absolute;
+    z-index: inherit;
+    top: 87px;
+    left: 378px;
+}
+.divforlogin {
+position:absolute;
+z-index:auto;
+    left: 401px;
+    height: 88px;
+    top: 241px;
+    width: 109px;
+}
+
+.divforside {
+    position: absolute;
+    z-index: inherit;
+    top: -6px;
+    left: 0px;
+    height: 918px;
+}
+.divforcontact {
+position:absolute;
+z-index:inherit;
+    top: 85px;
+    left: 581px;
+}
+.divforsignin {
+position:absolute;
+z-index:inherit;
+    top: 85px;
+    left: 887px;
+}
+.divforregister {
+position:absolute;
+z-index:inherit;
+    top: 48px;
+    left: 622px;
+}
+.divforhome {
+position:absolute;
+z-index:inherit;
+    top: 278px;
+    left: 1180px;
+}
+.divforusername {
+    position:absolute;
+z-index:inherit;
+}
+.divfortextbox {
+    position:absolute;
+z-index:inherit;
+}
+.divforpassword{
+    position:absolute;
+z-index:inherit;
+}
+.divfortextbox2 {
+    position:absolute;
+z-index:inherit;
+background-image:url("")
+}
+.divforloginbutton {
+    position:absolute;
+z-index:inherit;
+}
+.divforimgboomai {
+    position:absolute;
+z-index:inherit;
+    top: 185px;
+    left: 301px;
+    height: 111px;
+    width: 117px;
+    margin-top: 0px;
+}
+.divfortabscommon {
+    position:absolute;
+z-index:inherit;
+    top: 190px;
+    left: 765px;
+    height: 35px;
+    width: 109px;
+    margin-top: 0px;
+}
+.divfortabscommon2 {
+    position:absolute;
+z-index:inherit;
+    top: 392px;
+    left: 770px;
+    height: 36px;
+    width: 102px;
+}
+.divfortabscommon3 {
+    position:absolute;
+z-index:inherit;
+    top: 445px;
+    left: 770px;
+    height: 42px;
+    width: 105px;
+}.divfortabscommon4 {
+    position:absolute;
+z-index:inherit;
+   
+}
+ .divfortabscommon5 {
+    position:absolute;
+z-index:inherit;
+   
+}
+ .divfortabshome {
+    position:absolute;
+z-index:inherit;
+    top: 195px;
+    left: 775px;
+}
+ .divfortabscjava {
+    border-width: 0px;
+    position:absolute;
+    z-index:inherit;
+    top: 450px;
+    left: 776px;
+    height: 28px;
+    width: 94px;
+}
+ .divfortabsdces{
+    position:absolute;
+z-index:inherit;
+   
+}
+ .divfortabsdbms{
+    border-width: 0px;
+    position:absolute;
+    z-index:inherit;
+    top: 399px;
+    left: 782px;
+    height: 22px;
+    width: 79px;
+}
+ .divfortabsc {
+    position:absolute;
+z-index:inherit; 
+}
+.divforfbk {
+    border-width: 0px;
+    position:absolute;
+    z-index:inherit;
+    top: 30px;
+    left: 967px;
+    height: 45px;
+    width: 53px;
+}
+.divfortw{
+    border-width: 0px;
+    position:absolute;
+    z-index:inherit;
+    top: 29px;
+    left: 905px;
+    height: 46px;
+    width: 51px;
+}
+.divforyou {
+    border-width: 0px;
+    position:absolute;
+    z-index:inherit;
+    top: 29px;
+    left: 1036px;
+    height: 47px;
+    width: 53px;
+}
+.divfor1245 {
+    position: absolute;
+    z-index: inherit;
+    top: 1155px;
+    left: -1px;
+    width: 911px;
+    height: 48px;
+}
+.divforreg1223 {
+     position: absolute;
+    z-index: -2;
+    top: -320px;
+    left: 289px;
+    height: 906px;
+    width: 399px;
+    background-color:transparent;
+    opacity:0.8;
+}
+.divforwhole {
+position:absolute;
+z-index:inherit;
+
+}
+.sanjay {
+position:absolute;
+z-index:inherit;
+}
+.divforfooter {
+position:absolute;
+z-index:inherit;
+    top: 1001px;
+    left: 397px;
+    width: 522px;
+    color: #FFFFFF;
+    font-size: large;
+}
+.divfortabsnew {
+border-width: 0px;
+    position:absolute;
+    z-index:inherit;
+    top: 454px;
+    left: 775px;
+}
+.divfortabsnew1 {
+position:absolute;
+z-index:inherit;
+
+}
+.divforsignup {
+position:absolute;
+z-index:inherit;
+    top: 540px;
+    left: 169px;
+    height: 25px;
+    width: 634px;
+}
+.divforforget {
+position:absolute;
+z-index:inherit;
+    top: 517px;
+    left: 304px;
+    height: 0px;
+    width: 412px;
+}
+.divforredsan {
+    position:absolute;
+z-index:inherit;
+    top: 119px;
+    left: 931px;
+    height: 692px;
+    width: 389px;
+}
+.divforerrormessage {
+   position:absolute;
+z-index:inherit;
+    top: 561px;
+    left: 121px;
+}
+.divfortab1 {
+    position: absolute;
+    z-index: inherit;
+    top: 165px;
+    left: 298px;
+    height: 32px;
+    width: 115px;
+}
+.divfortab2 {
+    position: absolute;
+    z-index: inherit;
+    top: 210px;
+    left: 298px;
+    height: 32px;
+    width: 115px;
+    margin-top: 0px;
+}
+.divfortab3 {
+    position: absolute;
+    z-index: inherit;
+    top: 255px;
+    left: 298px;
+    height: 32px;
+    width: 115px;
+    margin-top: 0px;
+}
+.divfortab4 {
+    position: absolute;
+    z-index: inherit;
+    top: 300px;
+    left: 298px;
+    height: 32px;
+    width: 115px;
+    margin-top: 0px;
+}
+.divfortab5 {
+    position: absolute;
+    z-index: inherit;
+    top: 345px;
+    left: 298px;
+    height: 32px;
+    width: 115px;
+    margin-top: 0px;
+}
+.divfortab6 {
+    position: absolute;
+    z-index: inherit;
+    top: 390px;
+    left: 298px;
+    height: 32px;
+    width: 115px;
+    margin-top: 0px;
+}
+.divforh {
+     position: absolute;
+    z-index: inherit;
+    top: 170px;
+    left: 306px;
+}
+.divforj {
+    position: absolute;
+    z-index: inherit;
+    top: 215px;
+    left: 306px;
+}
+.divfordb {
+    position: absolute;
+    z-index: inherit;
+    top: 302px;
+    left: 306px;
+}
+.divfordc {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 347px;
+    left: 308px;
+}
+.divforc99999 {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 259px;
+    left: 312px;
+}
+.divforcc {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 390px;
+    left: 308px;
+}
+.divforvali {
+position:absolute;
+z-index:inherit;
+    top: 349px;
+    left: 490px;
+    color: #FF0000;
+}
+.divforvalipass
+{
+    position:absolute;
+    z-index:inherit;
+    top: 417px;
+    left: 495px;
+    width: 229px;
+    color: #FF0000;
+}

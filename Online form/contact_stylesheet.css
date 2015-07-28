@@ -1,0 +1,88 @@
+﻿body {    height: 822px;
+    width: 1253px;
+}
+.divfortile {
+position:absolute;
+z-index:inherit;
+}
+.divforbottom {
+position:absolute;
+z-index:inherit;
+    top: 89px;
+    left: 81px;
+}
+.divformenubar
+{
+position:absolute;
+z-index:inherit;
+}
+.divforjava
+{
+position:absolute;
+z-index:inherit;
+}
+.divforc
+{
+position:absolute;
+z-index:inherit;
+    top: 88px;
+    left: 391px;
+}
+.divfordbms
+{
+position:absolute;
+z-index:inherit;
+}
+.divfordces
+{
+position:absolute;
+z-index:inherit;
+}
+.divforCONTACT
+{
+position:absolute;
+z-index:inherit;
+}
+.divforcopyright
+{
+position:absolute;
+z-index:inherit;
+}
+.divforCONtenttext
+{
+    border: none;
+    scrollbar-arrow-color:transparent;
+    scrollbar-base-color:transparent;
+    scrollbar-darkshadow-color:transparent;
+    background-color: transparent;
+
+position:absolute;
+z-index:inherit;
+}
+.divforcreator {
+    position:absolute;
+z-index:inherit;
+    top: 204px;
+    left: 334px;
+    width: 577px;
+    height: 45px;
+    color: #EC8E08;
+    font-size: xx-large;
+    font-weight: 700;
+    font-family: Cambria;
+    margin-top: 0px;
+}
+.divforcontactphoto {
+position:absolute;
+z-index:-2;
+    top: 200px;
+    left: 38px;
+    height: 280px;
+    width: 279px;
+}
+.divforcontactpic {
+position:absolute;
+z-index:-2;
+    top: 332px;
+    left: 197px;
+}

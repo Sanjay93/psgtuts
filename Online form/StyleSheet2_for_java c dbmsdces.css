@@ -1,0 +1,497 @@
+﻿body {
+    
+}
+.divfortile
+ {
+    position:absolute;
+    z-index:inherit;
+    top: -4px;
+    left: -6px;
+    height: 4342px;
+    width: 58px;
+    margin-right: 34px;
+}
+.divfortabs
+ {
+    position:absolute;
+    z-index:-1;
+    top: 78px;
+    left: 57px;
+    height: 47px;
+    width: 1309px;
+}
+.divforpsglogo
+ {
+    position:absolute;
+    z-index:inherit;
+    top: 10px;
+    left: 112px;
+    height: 59px;
+    width: 171px;
+}
+.divforhome {
+position:absolute;
+z-index:inherit;
+    top: 87px;
+    left: 100px;
+    height: 29px;
+    width: 187px;
+}
+.divforjava {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 87px;
+    left: 320px;
+    height: 29px;
+    width: 187px;
+}
+.divforc {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    height: 29px;
+    width: 153px;
+    top: 87px;
+    left: 542px;
+    right: 117px;
+}
+.divfordbms {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    height: 29px;
+    width: 187px;
+    top: 87px;
+    left: 728px;
+    }
+.divfordces {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    height: 29px;
+    width: 187px;
+    top:87px;
+    left: 947px;
+}
+.divforcontact {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    height: 29px;
+    width: 187px;
+    top: 87px;
+    left: 1159px;
+}
+.divfortwitter {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 15px;
+    left: 1083px;
+    height: 58px;
+    width: 62px;
+    right: 491px;
+}
+.divforfacebook {
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 15px;
+    left: 1154px;
+    height: 58px;
+    width: 62px;
+}
+.divforyoutube{
+    border-width: 0px;
+    position: absolute;
+    z-index: inherit;
+    top: 15px;
+    left: 1223px;
+    height: 58px;
+    width: 62px;
+}
+.divfordesign {
+position:absolute;
+z-index:inherit;
+    top: 140px;
+    left: 99px;
+    height: 135px;
+    width: 168px;
+}
+.divforsmallbox
+{
+position:absolute;
+z-index:inherit;
+    top: 211px;
+    left: 1172px;
+    height: 32px;
+    width: 32px;
+    margin-top: 9px;
+}
+.divforsmallsmaalbox {
+    position: absolute;
+    z-index: inherit;
+    top: 302px;
+    left: 1288px;
+    height: 29px;
+    width: 32px;
+}
+.divforrepeat {
+    position: absolute;
+    z-index: inherit;
+    top: 351px;
+    left: 1169px;
+    height: 49px;
+    width: 52px;
+}
+.divforslide {
+    position: absolute;
+    z-index: -3;
+    top: 24px;
+    left: 1228px;
+    height: 1223px;
+    width: 138px;
+    margin-top: 1px;
+}
+.divforsidejust {
+position:absolute;
+z-index:-1;
+    top: 338px;
+    left: 50px;
+    margin-top: 8px;
+}
+.divfortextbox {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position: absolute;
+    z-index:inherit;
+    top: 228px;
+    left: 265px;
+    height: 4025px;
+    width: 851px;
+    background-color:transparent;
+    font-size: x-large;
+    font-family: Cambria;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.divfortextboxfordces {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position: absolute;
+    z-index:inherit;
+    top: 181px;
+    left: 298px;
+    height: 4048px;
+    width: 851px;
+    background-color:transparent;
+    font-size: x-large;
+    font-family: Cambria;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.divfortextboxforc {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position: absolute;
+    z-index:inherit;
+    top: 251px;
+    left: 298px;
+    height: 4026px;
+    width: 851px;
+    background-color:transparent;
+    font-size: x-large;
+    font-family: Cambria;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.divfortextboxforjava {
+ 
+   
+    position: absolute;
+    z-index:inherit;
+    top: 553px;
+    left: 298px;
+    height: 865px;
+    width: 851px;
+    
+    font-size: large;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.divfornextpage1 {
+    border-width: 0px;
+    position: absolute;
+    z-index:inherit;
+    top: 4280px;
+    left: 475px;
+    }
+.divfornextpage2 {
+    border-width: 0px;
+    position: absolute;
+    z-index:inherit;
+    top: 4280px;
+    left: 511px;
+}
+.divfordownlaod {
+
+    border-width: 0px;
+    position: absolute;
+    z-index:inherit;
+    top: 4280px;
+    left: 551px;
+    height: 23px;
+    width: 138px;
+}
+.divforfooter {
+     position: absolute;
+    z-index:inherit;
+    top: 4330px;
+    left: -11px;
+    width: 1361px;
+}
+.divforfootertext {
+     position: absolute;
+    z-index:inherit;
+    top: 4344px;
+    left: 397px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.divforqn1 {
+     position: absolute;
+    z-index:inherit;
+
+}
+.divforqn1textbox {
+     position: absolute;
+    z-index:inherit;
+}
+.divforqn2 {
+     position: absolute;
+    z-index:inherit;
+
+}
+.divforqn2textbox {
+     position: absolute;
+    z-index:inherit;
+}
+.divforqn3 {
+     position: absolute;
+    z-index:inherit;
+    color: #0066FF;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 1329px;
+    left: 298px;
+}
+.divforqn3textbox {
+     position: absolute;
+    z-index:inherit;
+    top: 1368px;
+    left: 330px;
+    height: 510px;
+    width: 671px;
+    font-size: large;
+}
+.divforqn4 {
+     position: absolute;
+    z-index:inherit;
+
+}
+.divforqn4textbox {
+     position: absolute;
+    z-index:inherit;
+    top: 1953px;
+    left: 330px;
+    height: 510px;
+    width: 671px;
+}
+.divforqn5 {
+     position: absolute;
+    z-index:inherit;
+
+}
+.divforqn5textbox {
+     position: absolute;
+    z-index:inherit;
+    top: 2615px;
+    left: 330px;
+    height: 510px;
+    width: 671px;
+    font-size: large;
+}
+.divforqn6 {
+     position: absolute;
+    z-index:inherit;
+    top: 3155px;
+    left: 286px;
+    color: #0066FF;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divforqn6textbox {
+     position: absolute;
+    z-index:inherit;
+    left: 330px;
+    height: 510px;
+    width: 671px;
+    top: 3196px;
+    font-size: large;
+}
+
+.divforqn7 {
+     position: absolute;
+    z-index:inherit;
+   
+    left: 286px;
+    color: #0066FF;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divforqn7textbox {
+     position: absolute;
+    z-index:inherit;
+    
+    left: 330px;
+    height: 468px;
+    width: 671px;
+   
+}
+.divforjavaclass {
+     position: absolute;
+    z-index:inherit;
+    top: 158px;
+    left: 500px;
+    text-decoration: underline;
+    color: #0066FF;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divforjavqn {
+border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position:absolute;
+    z-index:inherit;
+    top: 202px;
+    left: 307px;
+    height: 330px;
+    width: 726px;
+    scrollbar-3dlight-color:transparent;
+    scrollbar-arrow-color:transparent;
+    background-color:transparent;
+    font-size: large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+}
+.divforjavqn2 {
+border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position:absolute;
+    z-index:inherit;
+    top: 1454px;
+    left: 302px;
+    height: 149px;
+    width: 857px;
+    scrollbar-3dlight-color:transparent;
+    scrollbar-arrow-color:transparent;
+    background-color:transparent;
+    font-size: large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+}
+.divfortextboxforjava2 {
+    position: absolute;
+    z-index:inherit;
+    top: 1613px;
+    left: 298px;
+    height: 865px;
+    width: 851px;
+    font-size: large;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.divforjavqn3 {
+border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position:absolute;
+    z-index:inherit;
+    top: 2521px;
+    left: 302px;
+    height: 149px;
+    width: 857px;
+    scrollbar-3dlight-color:transparent;
+    scrollbar-arrow-color:transparent;
+    background-color:transparent;
+    font-size: large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+}
+.divfortextboxforjava3 {
+    position: absolute;
+    z-index:inherit;
+    top: 2670px;
+    left: 298px;
+    height: 865px;
+    width: 851px;
+    font-size: large;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
+.divforjavqn4 {
+border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    position:absolute;
+    z-index:inherit;
+    top: 3571px;
+    left: 302px;
+    height: 32px;
+    width: 857px;
+    scrollbar-3dlight-color:transparent;
+    scrollbar-arrow-color:transparent;
+    background-color:transparent;
+    font-size: large;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+}
+.divfortextboxforjava4 {
+    position: absolute;
+    z-index:inherit;
+    top: 3617px;
+    left: 298px;
+    height: 631px;
+    width: 851px;
+    font-size: large;
+    font-weight: 400;
+    color: #000000;
+    margin-left: 3px;
+    margin-right: 5px;
+}
